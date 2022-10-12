@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.kt": "kotlin",
+        "*.html": "html",
+        "list": "cpp"
+    }
+}
